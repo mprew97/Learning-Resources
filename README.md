@@ -252,3 +252,7 @@ The following materials can help you understand general design ideas of real sys
 [Yahoo](https://yahooeng.tumblr.com)  
 [Yelp](https://engineeringblog.yelp.com)  
 [Zoom](https://medium.com/zoom-developer-blog)
+
+JS event loop: https://www.youtube.com/watch?v=8aGhZQkoFbQ
+
+Apollo Graph Developer Cert: https://www.apollographql.com/tutorials/certifications/apollo-graph-associate
